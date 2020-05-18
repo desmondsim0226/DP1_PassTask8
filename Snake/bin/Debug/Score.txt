@@ -1,0 +1,7 @@
+Ky 0
+Ki 1
+Ko 2
+Ku 3
+Ke 1
+Kp 10
+Km 0

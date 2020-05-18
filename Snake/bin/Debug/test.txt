@@ -1,0 +1,4 @@
+Name: Ky	LOSS	HighScore: 0
+Name: KK	LOSS	HighScore: 1
+Name: KE	LOSS	HighScore: 0
+Name: Kb	LOSS	HighScore: 0
