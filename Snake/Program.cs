@@ -518,6 +518,7 @@ namespace Snake
                 }
                 game1.createBonusFood(BonusFood);
                 
+                //Week8 (Apart from the arrow keys, other inputs from the keyboard should not be displayed on the console during game play)
                 Console.SetCursorPosition(0, 0);  
              
                 Thread.Sleep((int)sleepTime);
