@@ -517,7 +517,9 @@ namespace Snake
                     lastBonusFoodTime = Environment.TickCount;
                 }
                 game1.createBonusFood(BonusFood);
-                                          
+                
+                Console.SetCursorPosition(0, 0);  
+             
                 Thread.Sleep((int)sleepTime);
             }
         }
